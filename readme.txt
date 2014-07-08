@@ -7,7 +7,7 @@ Stable tag: 3.6.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-If you’ve decided to switch from Kentico to WordPress - CMS2CMS: Kentico to WordPress Migration Plugin allows to perform the conversion almost hands-off.
+If you’ve decided to switch from Kentico to WordPress - CMS2CMS Migration Plugin allows to perform the conversion almost hands-off.
 
 == Description ==
 
@@ -16,18 +16,18 @@ If you’ve decided to switch from Kentico to WordPress - CMS2CMS: Kentico to Wo
 Supported WordPress versions: 3.x 
 
 = The Following Entities are Currently Supported by CMS2CMS: =
-* *pages
-* *content images 
-* *internal links
+* pages
+* content images 
+* internal links
 
 = Additional Migration Options: =
 - clear WordPress data before migration
 
 = Features of Automated Migration: =
-* *Ease-of-Use - CMS2CMS expects no programming experience to work with so that even newbies and first-time users feel easy to operate it. 
-* *High Speed - because CMS2CMS is automated service, a full-scale migration across platforms takes a little time (up from 15 min depending on a website size).
-* *Live Support - CMS2CMS provides 100% support during the migration path to help users cope with any issues. 
-* *Free Demo Available - CMS2CMS provides its users with a possibility to see the website migration process in action and to estimate the results.
+* Ease-of-Use - CMS2CMS expects no programming experience to work with so that even newbies and first-time users feel easy to operate it. 
+* High Speed - because CMS2CMS is automated service, a full-scale migration across platforms takes a little time (up from 15 min depending on a website size).
+* Live Support - CMS2CMS provides 100% support during the migration path to help users cope with any issues. 
+* Free Demo Available - CMS2CMS provides its users with a possibility to see the website migration process in action and to estimate the results.
 
            Note. The plugin installs the connection bridge on WordPress website, which is necessary for data exchange between Kentico and WordPress websites. As soon as activated, you’ll be redirected to CMS2CMS website in order to proceed with the further migration steps. 
 
