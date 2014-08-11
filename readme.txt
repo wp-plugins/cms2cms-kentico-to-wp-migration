@@ -13,6 +13,9 @@ If you’ve decided to switch from Kentico to WordPress - CMS2CMS Migration Plug
 
 If you’ve decided to switch from Kentico to WordPress - CMS2CMS: Kentico to WordPress Migration Plugin allows to perform the conversion almost hands-off and with no technical skills required.  The plugin has simplified the process of switching across these two platforms to a few straightforward steps and made it a matter of a few mouse clicks
 
+= Video =
+[http://youtu.be/hH_JKVlLRLY]
+
 Supported WordPress versions: 3.x 
 
 = The Following Entities are Currently Supported by CMS2CMS: =
