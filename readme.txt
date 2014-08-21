@@ -18,6 +18,9 @@ If you’ve decided to switch from Kentico to WordPress - CMS2CMS: Kentico to Wo
 
 Supported WordPress versions: 3.x 
 
+*There is Free Demo available (migration of limited number of pages)*
+*Full Migration starts from $9.*
+
 = The Following Entities are Currently Supported by CMS2CMS: =
 * pages
 * content images 
