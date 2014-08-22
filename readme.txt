@@ -35,6 +35,8 @@ Supported WordPress versions: 3.x
 * Live Support - CMS2CMS provides 100% support during the migration path to help users cope with any issues. 
 * Free Demo Available - CMS2CMS provides its users with a possibility to see the website migration process in action and to estimate the results.
 
+More info: http://www.cms2cms.com/supported-cms/kentico-cms-to-wordpress-migration/
+
            Note. The plugin installs the connection bridge on WordPress website, which is necessary for data exchange between Kentico and WordPress websites. As soon as activated, you’ll be redirected to CMS2CMS website in order to proceed with the further migration steps. 
 
 == Installation ==
