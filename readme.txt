@@ -2,7 +2,7 @@
 Contributors: cms2cms
 Tags: Kentico to WordPress, Kentico to WordPress migration, convert Kentico to WordPress, migrate Kentico to WordPress, images, plugin
 Requires at least: 3.0.0
-Tested up to: 3.9.1
+Tested up to: 4.0
 Stable tag: 3.6.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -13,7 +13,7 @@ If you’ve decided to switch from Kentico to WordPress - CMS2CMS Migration Plug
 
 If you’ve decided to switch from Kentico to WordPress - CMS2CMS: Kentico to WordPress Migration Plugin allows to perform the conversion almost hands-off and with no technical skills required.  The plugin has simplified the process of switching across these two platforms to a few straightforward steps and made it a matter of a few mouse clicks
 
-Supported WordPress versions: 3.x 
+Supported WordPress versions: 4.x 
 
 * *There is Free Demo available (migration of limited number of pages).*
 * *Full Migration starts from $9.*
@@ -35,7 +35,7 @@ Supported WordPress versions: 3.x
 * Live Support - CMS2CMS provides 100% support during the migration path to help users cope with any issues. 
 * Free Demo Available - CMS2CMS provides its users with a possibility to see the website migration process in action and to estimate the results.
 
-More info: http://www.cms2cms.com/supported-cms/kentico-cms-to-wordpress-migration/
+More info: http://www.cms2cms.com/supported-cms/kentico-cms-to-wordpress-migration/?utm_source=Kentico&utm_medium=Link&utm_campaign=WordPress_plugins
 
            Note. The plugin installs the connection bridge on WordPress website, which is necessary for data exchange between Kentico and WordPress websites. As soon as activated, you’ll be redirected to CMS2CMS website in order to proceed with the further migration steps. 
 
