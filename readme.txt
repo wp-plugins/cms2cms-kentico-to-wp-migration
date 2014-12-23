@@ -35,6 +35,11 @@ Supported WordPress versions: 4.x
 * Live Support - CMS2CMS provides 100% support during the migration path to help users cope with any issues. 
 * Free Demo Available - CMS2CMS provides its users with a possibility to see the website migration process in action and to estimate the results.
 
+Our Support Team is available via phone, Live Chat and Email (Technical support) during the following hours:
+Phone support – 24 hours a day, Monday – Friday
+Live Chat support – 24 hours a day, Monday – Friday
+Technical support – from 11 am to 7 pm GMT +2, Monday – Friday
+
 More info: http://www.cms2cms.com/supported-cms/kentico-cms-to-wordpress-migration/?utm_source=Kentico&utm_medium=Link&utm_campaign=WordPress_plugins
 
            Note. The plugin installs the connection bridge on WordPress website, which is necessary for data exchange between Kentico and WordPress websites. As soon as activated, you’ll be redirected to CMS2CMS website in order to proceed with the further migration steps. 
