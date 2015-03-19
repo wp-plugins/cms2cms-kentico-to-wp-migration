@@ -28,6 +28,9 @@ Supported WordPress versions: 4.x
 
 = Additional Migration Options: =
 - clear WordPress data before migration
+- 301 redirects from old URLs to new URLs
+- forms
+
 
 = Features of Automated Migration: =
 * Ease-of-Use - CMS2CMS expects no programming experience to work with so that even newbies and first-time users feel easy to operate it. 
